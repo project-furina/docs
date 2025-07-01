@@ -32,7 +32,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="An elegant and efficient site powered by Docusaurus">
+      description="The Project Furina Documentation where all your questions are answered.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
