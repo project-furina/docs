@@ -13,14 +13,9 @@
 ## 🚀 Getting Started
 
 Install dependencies:
-
 ```bash
 yarn
 ```
-
-> [!INFO]
-> This installs all required packages using Yarn. Make sure you have it installed globally via `npm install -g yarn`.
-
 ---
 
 ## 💻 Local Development
@@ -30,10 +25,6 @@ Start the development server:
 ```bash
 yarn start
 ```
-
-> [!TIP]
-> This will launch the site at `http://localhost:3000`. Changes you make to source files will automatically reflect in the browser.
-
 ---
 
 ## 🏗️ Build for Production
@@ -49,30 +40,9 @@ yarn build
 
 ---
 
-## 🌐 Deployment
-
-Deploy the site to GitHub Pages:
-
-### Using SSH
-
-```bash
-USE_SSH=true yarn deploy
-```
-
-### Using HTTPS (GitHub Token)
-
-```bash
-GIT_USER=<your-github-username> yarn deploy
-```
-
-> [!CAUTION]
-> Ensure your GitHub repo is set up with Pages support, and that the default branch has publishing enabled.
-
----
-
 ## 🆘 Need Help?
 
-Check the [documentation site](https://docs.project-furina.xyz) or open an [issue](https://github.com/project-furina/docs/issues) if you're stuck.
+Check the [documentation site](https://help.project-furina.xyz) or open an [issue](https://github.com/project-furina/docs/issues) if you're stuck.
 
 > [!WARNING]
 > Please don’t use the issue tracker for personal support requests. Use it only for bugs or documentation improvements.
