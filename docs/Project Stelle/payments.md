@@ -12,6 +12,7 @@ Project Stelle uses a trusted third-party service, [Stripe](https://stripe.com),
 - [Stripe](https://stripe.com) charges a variable processing fee, typically between **2.9% and 5%**, depending on the payment method and location.
   - This can vary due to fees in different countries, payment methods, etc, and this is merely an inclusive estimate.
 - [Project Stelle](https://stelle.project-furina.xyz) takes a fixed **3% service fee**.
+  - [Project Stelle](https://stelle.project-furina.xyz) takes a flat $0.05 USD Service Fee.
   - Please note, this might be changed in the future to be **2% or 1%** later down the road.
 
 You typically receive around **90-95%** of the total payment after fees.
